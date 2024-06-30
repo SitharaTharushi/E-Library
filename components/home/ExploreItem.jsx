@@ -7,3 +7,4 @@ const ExploreItem = ({ book, openPdf }) => {
 };
 
 export default ExploreItem;
+
